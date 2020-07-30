@@ -1,4 +1,4 @@
-# KeikoGram
+# KiekoGram
 A image uploader site dedicated to my lazy cat that sits around all day. <br> A site using some nice features in React, with a database on Firebase and some Framer Motion effects.
 
 # Demo
