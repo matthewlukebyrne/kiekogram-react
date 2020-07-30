@@ -1,10 +1,12 @@
-## Some handy Links and Tools
+## Some handy Links and Tools I used with this
 
 https://firebase.google.com/
 
 https://reactjs.org/
 
 https://www.netlify.com/
+
+https://www.framer.com/motion/
 
 ### `npm start`
 
