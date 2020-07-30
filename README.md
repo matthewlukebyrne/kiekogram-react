@@ -1,5 +1,5 @@
 # KeikoGram
-A fanwebsite dedicated to my lazy cat. A insta style style using some features in React, with a database on Firebase and some Framer Motion effects.
+A fan site dedicated to my lazy cat. <br> A site using some nice features in React, with a database on Firebase and some Framer Motion effects.
 
 # Demo
 ![keikogram](image_Bank/keikogramdemo.gif)
