@@ -1,0 +1,12 @@
+version: '3.6'
+
+services: 
+  keikogram-react:
+    container_name: frontend-app
+    # image: node:buster
+    build: ./
+    command: npm start
+    working_dir: /matt/app/keikogram-react
+    ports: 
+      - "3000:3000"
+    
