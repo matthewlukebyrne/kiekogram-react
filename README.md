@@ -1,16 +1,23 @@
-## Some handy Links and Tools
+# KiekoGram
+A image uploader site dedicated to my lazy cat that sits around all day. <br> A site using some nice features in React, with a database on Firebase and some Framer Motion effects.
 
-https://firebase.google.com/
+# Demo
+![keikogram](image_Bank/keikogramdemo.gif)
+![keikogram2](image_Bank/firebase_catch1.PNG)
 
-https://reactjs.org/
+## Some handy Links and Tools I used with this
 
-https://www.netlify.com/
+https://firebase.google.com/ - to keep the images in the back
+
+https://reactjs.org/ - to have all the components do their thing
+
+https://www.netlify.com/ - to deploy it up onto to the interwebs
+
+https://www.framer.com/motion/ - to have some fluid animations on the loading and lightbox
 
 ### `npm start`
 
 Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser when downloaded!.
 
-# KeikoGram
-A fanwebsite dedicated to my lazy cat. A insta style style using some features in React, with a database on Firebase and some Framer Motion effects.
 
